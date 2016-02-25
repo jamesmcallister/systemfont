@@ -1,0 +1,25 @@
+{
+  "name": "systemfont",
+  "version": "1.0.5",
+  "description": "css to use the system font",
+  "main": "nul",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesmcallister/systemfont.git"
+  },
+  "keywords": [
+    "css",
+    "font",
+    "sass",
+    "less"
+  ],
+  "author": "James McAllister",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesmcallister/systemfont/issues"
+  },
+  "homepage": "https://github.com/jamesmcallister/systemfont#readme"
+}
